@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\trist\source\repos\Project Two - Tristin Watson\Project Two - Tristin Watson\Source.cpp(38,26): warning C4101: 'e': unreferenced local variable
+C:\Users\trist\source\repos\Project Two - Tristin Watson\Project Two - Tristin Watson\Source.cpp(61,26): warning C4101: 'e': unreferenced local variable
+C:\Users\trist\source\repos\Project Two - Tristin Watson\Project Two - Tristin Watson\Source.cpp(84,26): warning C4101: 'e': unreferenced local variable
+C:\Users\trist\source\repos\Project Two - Tristin Watson\Project Two - Tristin Watson\Source.cpp(106,26): warning C4101: 'e': unreferenced local variable
+  Project Two - Tristin Watson.vcxproj -> C:\Users\trist\source\repos\Project Two - Tristin Watson\x64\Debug\Project Two - Tristin Watson.exe
